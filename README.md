@@ -11,7 +11,7 @@ Porém amo Tudo sobre Tecnologia!
 
 
 
-<img height="140em" src="https://tenor.com/bQ6YQ.gif"/> 
+<img " src="https://tenor.com/bQ6YQ.gif"/> 
 
 
 
