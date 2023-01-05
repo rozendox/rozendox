@@ -1,11 +1,11 @@
 background-color: #FAF8FE
 BELEZINHA DEVS!?
 
- Gabriel por aqui!
+# Gabriel por aqui!
 
 
 <p align="center">
-Estudo atualmente sobre a linguagem de programação Python, Porém amo Tudo sobre Tecnologia!
+##Estudo atualmente sobre a linguagem de programação Python, Porém amo Tudo sobre Tecnologia!
 </p>
 
 
@@ -24,7 +24,7 @@ Ferramentas e Tecnologias
 </p>
 
 
-![alt text](https://images.credly.com/size/340x340/images/16d5a420-770b-4699-97ec-46708e3680c5/Big_Data_Found_Level_1_-_CC_-_2019.png ) ![alt text](https://images.credly.com/size/340x340/images/d2cc88b1-1f59-41d2-9f1c-83190e3541e1/R_Essentials.png) ![alt text](https://www.credly.com/badges/304b05a6-b0cc-460e-b15a-6ca6813d3786?source=linked_in_profile)
+![alt text](https://images.credly.com/size/340x340/images/16d5a420-770b-4699-97ec-46708e3680c5/Big_Data_Found_Level_1_-_CC_-_2019.png )![alt text](https://images.credly.com/size/340x340/images/d2cc88b1-1f59-41d2-9f1c-83190e3541e1/R_Essentials.png)![alt text](https://www.credly.com/badges/304b05a6-b0cc-460e-b15a-6ca6813d3786?source=linked_in_profile)
 
 <p align="center">
 Contatos:
