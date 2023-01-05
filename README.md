@@ -19,7 +19,7 @@ Ferramentas e Tecnologias
 </p>
 
 <p align="center">
-![Rozendox Status](https://github-readme-stats.vercel.app/api?username=rozendox&show_icons=true) [![Top Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=rozendox&layout=compact)](https://github.com/rozendox/github-readme-stats)
+![Rozendox Status](https://github-readme-stats.vercel.app/api?username=rozendox&show_icons=true), [![Top Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=rozendox&layout=compact)](https://github.com/rozendox/github-readme-stats)
 </p>
 
  
