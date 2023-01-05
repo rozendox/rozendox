@@ -10,9 +10,9 @@ Porém amo Tudo sobre Tecnologia!
  
 
 
-<div>
+
 <img height="140em" src="https://tenor.com/bQ6YQ.gif"/> 
-</div>
+
 
 
 <div>
