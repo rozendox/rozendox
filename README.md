@@ -8,7 +8,8 @@ BELEZINHA DEVS!?
 Estudo atualmente sobre a linguagem de programação Python, Porém amo Tudo sobre Tecnologia!
 </p>
 
-
+<img src="https://images.credly.com/size/340x340/images/d2cc88b1-1f59-41d2-9f1c-83190e3541e1/R_Essentials.png
+" width="50" height="50" />
 
 
 
