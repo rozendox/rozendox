@@ -18,8 +18,9 @@ Ferramentas e Tecnologias
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" width="50" height="50" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pycharm/pycharm-original.svg" width="50" height="50" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-original.svg" width="50" height="50" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="50" height="50" />
 </p>
 
-![Rozendox Status](https://github-readme-stats.vercel.app/api?username=rozendox&show_icons=true)
-[![Top Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=rozendox&layout=compact)](https://github.com/rozendox/github-readme-stats)
+<p align="center">
+![Rozendox Status](https://github-readme-stats.vercel.app/api?username=rozendox&show_icons=true) [![Top Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=rozendox&layout=compact)](https://github.com/rozendox/github-readme-stats)
+</p>
 
  
  ## Contatos:
