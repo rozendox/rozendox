@@ -12,7 +12,7 @@ Porém amo Tudo sobre Tecnologia!
 
 
 <p align="center">
-  <img src="https://tenor.com/bQ6YQ.gif" width="350">
+  <img src="https://www.tenor.com/bQ6YQ.gif" width="350">
 </p>
 
 
