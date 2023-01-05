@@ -16,10 +16,10 @@ Estudo atualmente sobre a linguagem de programação Python, Porém amo Tudo sob
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" width="50" height="50" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pycharm/pycharm-original.svg" width="50" height="50" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-original.svg" width="50" height="50" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="50" height="50" />
 </p>
 
-<div class="tenor-gif-embed" data-postid="25012206" data-share-method="host" data-aspect-ratio="1.07023" data-width="100%"><a href="https://tenor.com/view/scaler-create-impact-stdio-coding-reaction-gif-25012206">Scaler Create Impact GIF</a>from <a href="https://tenor.com/search/scaler-gifs">Scaler GIFs</a></div> <script type="text/javascript" async src="https://tenor.com/embed.js"></script>
+
 
 <p align="center">
-  <img src="https://tenor.com/pt-BR/view/scaler-create-impact-stdio-coding-reaction-gif-25012206" width="350">
+  <img src="https://tenor.com/bQ6YQ.gif" width="350">
 </p>
 
 
