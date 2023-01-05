@@ -24,7 +24,7 @@ Ferramentas e Tecnologias
 </p>
 
 
-![alt text](https://images.credly.com/size/340x340/images/16d5a420-770b-4699-97ec-46708e3680c5/Big_Data_Found_Level_1_-_CC_-_2019.png )width="100" height="100"
+![alt text width="100" height="100"](https://images.credly.com/size/340x340/images/16d5a420-770b-4699-97ec-46708e3680c5/Big_Data_Found_Level_1_-_CC_-_2019.png )
  
 <p align="center">
  ## Contatos:
