@@ -19,7 +19,7 @@ Estudo atualmente sobre a linguagem de programação Python, Porém amo Tudo sob
 
 
 <p align="center">
-  <img src="https://tenor.com/bQ6YQ.gif" width="350">
+  <img src="https://tenor.com/pt-BR/view/scaler-create-impact-stdio-coding-reaction-gif-25012206" width="350">
 </p>
 
 
