@@ -19,7 +19,8 @@
 
 [![Top Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=rozendox&layout=compact)](https://github.com/rozendox/github-readme-stats)
 
-
+<br>
+<br>
 
 <p align="center">
 <a href="https://www.credly.com/badges/43f766b8-a6db-4018-9467-519622e589a5?source=linked_in_profile " target="_blank"><img src="https://images.credly.com/size/340x340/images/d2cc88b1-1f59-41d2-9f1c-83190e3541e1/R_Essentials.png" width="160" height="160" target="_blank"> </a> <a href="https://www.credly.com/badges/b1c9ae7d-1dc9-40d5-a8dc-a063af2c9034?source=linked_in_profile" target="_blank"><img src="https://images.credly.com/size/340x340/images/16d5a420-770b-4699-97ec-46708e3680c5/Big_Data_Found_Level_1_-_CC_-_2019.png" width="160" height="160" target="_blank"> </a> <a href="https://www.credly.com/badges/d0f9f624-3310-44f4-b3c1-20179faebbbc?source=linked_in_profile" target="_blank"><img src="https://images.credly.com/size/340x340/images/dfd6eb51-4caa-4ffe-b107-85ece064370c/Data_Science_Methodologies.png" width="160" height="160" target="_blank"> </a> <a href="https://www.credly.com/badges/fb945117-afee-4a5f-bf91-07c15f93f55d?source=linked_in_profile" target="_blank"><img src="https://images.credly.com/size/340x340/images/84ac9eff-b8a2-4683-846b-f59887a73801/Python_101_Data_Science.png" width="160" height="160" target="_blank"> </a> <a href="https://www.credly.com/badges/d9476774-9801-464f-a0ed-242c18b86b86?source=linked_in_profile" target="_blank"><img src="https://images.credly.com/size/340x340/images/087eaefb-61a2-426b-ae74-74efca195667/Data_Visualization_Using_Python.png" width="160" height="160" target="_blank"> </a> 
