@@ -1,7 +1,7 @@
 <p align="center">
-## BELEZINHA DEVS!?
+BELEZINHA DEVS!?
  </br>
-### Gabriel por aqui!
+ Gabriel por aqui!
 </p>
 
 <p align="center">
@@ -11,7 +11,7 @@ Estudo atualmente sobre a linguagem de programação Python, Porém amo Tudo sob
 </br>
 
 <p align="center">
-## Ferramentas e Tecnologias
+Ferramentas e Tecnologias
 </p>
 <p align="center">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" width="50" height="50" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pycharm/pycharm-original.svg" width="50" height="50" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-original.svg" width="50" height="50" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="50" height="50" />
