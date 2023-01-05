@@ -24,7 +24,7 @@ Ferramentas e Tecnologias
 </p>
 
 
-<a href="https://www.credly.com/badges/43f766b8-a6db-4018-9467-519622e589a5?source=linked_in_profile " target="_blank"><img src="https://images.credly.com/size/340x340/images/d2cc88b1-1f59-41d2-9f1c-83190e3541e1/R_Essentials.png" target="_blank"></a>
+<a href="https://www.credly.com/badges/43f766b8-a6db-4018-9467-519622e589a5?source=linked_in_profile " target="_blank"><img src="https://images.credly.com/size/340x340/images/d2cc88b1-1f59-41d2-9f1c-83190e3541e1/R_Essentials.png" width="100" height="100" target="_blank"> </a>
 
 <p align="center">
 Contatos:
