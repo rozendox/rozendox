@@ -1,15 +1,14 @@
-<p align="center">
+
 # BELEZINHA DEVS!?
-</p>
+
 
 </br>
 
-<p align="center">
 ## Gabriel por aqui!
-</p>
+</br>
 
 <p align="center">
-##### Estudo atualmente sobre a linguagem de programação Python, Porém amo Tudo sobre Tecnologia!
+Estudo atualmente sobre a linguagem de programação Python, Porém amo Tudo sobre Tecnologia!
 </p>
 
 
