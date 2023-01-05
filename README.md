@@ -1,6 +1,5 @@
 
-Meu nome é Gabriel Rozendo
-#Belezinha devs?
+##Belezinha devs?
 
 
 Estudo atualmente sobre a linguagem de programação Python
@@ -23,7 +22,6 @@ Porém amo Tudo sobre Tecnologia!
 
 <div>
 <a href="https://github.com/rozendox">
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rozendox&layout=compact&langs_count=7&theme=dracula"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=rozendox&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+<img height="140em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rozendox&layout=compact&langs_count=7&theme=dracula"/> <img height="140em" src="https://github-readme-stats.vercel.app/api?username=rozendox&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
 </div>
 ![Snake animation](https://github.com/rozendox/rozendox/blob/output/github-contribution-grid-snake.svg)
