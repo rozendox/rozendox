@@ -1,15 +1,15 @@
 <p align="center">
-# BELEZINHA DEVS!?
+#BELEZINHA DEVS!?
 </p>
 
 </br>
 
 <p align="center">
-## Gabriel por aqui!
+##Gabriel por aqui!
 </p>
 
 <p align="center">
-### Estudo atualmente sobre a linguagem de programação Python, Porém amo Tudo sobre Tecnologia!
+###Estudo atualmente sobre a linguagem de programação Python, Porém amo Tudo sobre Tecnologia!
 </p>
 
 
