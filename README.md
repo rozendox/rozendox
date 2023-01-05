@@ -26,6 +26,7 @@ Ferramentas e Tecnologias
 </p>
 
  
+<p align="center">
  ## Contatos:
 
 <div>
@@ -34,5 +35,5 @@ Ferramentas e Tecnologias
 <a href = "mailto:roxy.py@protonmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 <a href="https://www.linkedin.com/in/cgrox/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
 </div>
- 
+</p>
 ![Snake animation](https://github.com/rozendox/rozendox/blob/output/github-contribution-grid-snake.svg)
