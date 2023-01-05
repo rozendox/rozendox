@@ -26,7 +26,9 @@ Estudo atualmente sobre a linguagem de programação Python, Porém amo Tudo sob
 </p>
 
 <p align="center">
-<a href="https://www.credly.com/badges/304b05a6-b0cc-460e-b15a-6ca6813d3786?source=linked_in_profile" target="_blank"><img src="https://images.credly.com/size/340x340/images/ba34cb1c-4344-43f5-9685-55e2e901c0f0/Data_Analysis_using_Python.png" width="160" height="160" target="_blank"> </a> <a href=" https://www.credly.com/earner/earned/badge/ab772d9d-efb0-4b22-9da4-3ca622c899ce " target="_blank"><img src="https://images.credly.com/size/340x340/images/53caf8cc-b5e9-4424-b4a7-7b069fa13db4/Machine_Learning_with_Python.png" width="160" height="160" target="_blank"> </a>
+<a href="https://www.credly.com/badges/304b05a6-b0cc-460e-b15a-6ca6813d3786?source=linked_in_profile" target="_blank"><img src="https://images.credly.com/size/340x340/images/ba34cb1c-4344-43f5-9685-55e2e901c0f0/Data_Analysis_using_Python.png" width="160" height="160" target="_blank"> </a> <a href=" https://www.credly.com/earner/earned/badge/ab772d9d-efb0-4b22-9da4-3ca622c899ce " target="_blank"><img src="https://images.credly.com/size/340x340/images/53caf8cc-b5e9-4424-b4a7-7b069fa13db4/Machine_Learning_with_Python.png" width="160" height="160" target="_blank"> </a> <img src="https://images.credly.com/size/340x340/images/53caf8cc-b5e9-4424-b4a7-7b069fa13db4/Machine_Learning_with_Python.png" width="160" height="160" target="_blank"> </a><img src="[https://images.credly.com/size/340x340/images/53caf8cc-b5e9-4424-b4a7-7b069fa13db4/Machine_Learning_with_Python.png](https://www.credly.com/earner/earned/badge/99c76088-bcdc-4464-ae71-1a8dbc5fa091) " width="160" height="160" target="_blank"> </a> <img src="https://images.credly.com/size/340x340/images/49211314-919e-4207-885a-7d2ff76ddb07/Statistics_101_-_CC.png" width="160" height="160" target="_blank"> </a>
+</p>
+
 </p>
 
 </br>
@@ -36,7 +38,7 @@ Ferramentas e Tecnologias
 </p>
 
 <p align="center">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" width="50" height="50" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pycharm/pycharm-original.svg" width="50" height="50" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-original.svg" width="50" height="50" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="50" height="50" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" width="50" height="50" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pycharm/pycharm-original.svg" width="50" height="50" /> <img src="https://www.credly.com/earner/earned/badge/53a0724c-b4eb-405c-9f47-0bddc18e51b1" width="50" height="50" /> <img src="https://images.credly.com/size/340x340/images/53caf8cc-b5e9-4424-b4a7-7b069fa13db4/Machine_Learning_with_Python.png" width="50" height="50" />
 </p>  
 
 <p align="center">
