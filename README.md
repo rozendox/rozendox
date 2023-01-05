@@ -1,25 +1,20 @@
 
 ## BELEZINHA DEVS!?
 
-</br>
-</br>
-</br>
+
 
 Estudo atualmente sobre a linguagem de programação Python
 Porém amo Tudo sobre Tecnologia!
 
-</br>
-</br>
+
 ## Ferramentas e Tecnologias
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" width="50" height="50" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pycharm/pycharm-original.svg" width="50" height="50" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-original.svg" width="50" height="50" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="50" height="50" />
- 
-</br>
+
 
 <p align="center">
   <img src="[https://tenor.com/bQ6YQ.gif]" width="350">
 </p>
 
-</br>
 
 
 
@@ -29,7 +24,6 @@ Porém amo Tudo sobre Tecnologia!
 </div>
 
  
- </br>
  
  ## Contatos:
 
@@ -40,5 +34,4 @@ Porém amo Tudo sobre Tecnologia!
 <a href="https://www.linkedin.com/in/cgrox/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
 </div>
  
- </br>
 ![Snake animation](https://github.com/rozendox/rozendox/blob/output/github-contribution-grid-snake.svg)
