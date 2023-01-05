@@ -24,7 +24,7 @@ Ferramentas e Tecnologias
 </p>
 
 
-< ![alt text](https://images.credly.com/size/340x340/images/16d5a420-770b-4699-97ec-46708e3680c5/Big_Data_Found_Level_1_-_CC_-_2019.png ) width="50" height="50" />![alt text](https://images.credly.com/size/340x340/images/d2cc88b1-1f59-41d2-9f1c-83190e3541e1/R_Essentials.png)![alt text](https://images.credly.com/size/340x340/images/d2cc88b1-1f59-41d2-9f1c-83190e3541e1/R_Essentials.png)
+<a href="https://www.credly.com/badges/43f766b8-a6db-4018-9467-519622e589a5?source=linked_in_profile " target="_blank"><img src="https://images.credly.com/size/340x340/images/d2cc88b1-1f59-41d2-9f1c-83190e3541e1/R_Essentials.png" target="_blank"></a>
 
 <p align="center">
 Contatos:
