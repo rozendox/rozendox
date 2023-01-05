@@ -1,4 +1,4 @@
-background-color: #FAF8FE
+
 BELEZINHA DEVS!?
 <p align="center">
 # Gabriel por aqui!
@@ -22,8 +22,8 @@ BELEZINHA DEVS!?
 
 
 </br>
-<p align="center">
 
+<p align="center">
 Ferramentas e Tecnologias
 </p>
 
