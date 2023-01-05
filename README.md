@@ -4,9 +4,9 @@
 ### Gabriel por aqui!
 </p>
 
-
+<p align="center">
 Estudo atualmente sobre a linguagem de programação Python, Porém amo Tudo sobre Tecnologia!
-
+</p>
 
 </br>
 
