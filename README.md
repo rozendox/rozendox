@@ -23,7 +23,7 @@ Atualmente meu foco é a linguagem de programação Python, Porém amo Tudo sobr
 
 </br>
 </br>
-<hr size="10" width="50%" align="center" noshade>
+<hr size="4" width="100%" align="center" noshade>
 </br>
 </br>
 
