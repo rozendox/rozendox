@@ -13,11 +13,11 @@ BELEZINHA DEVS!?
 </br>
 
 <p align="center">
-Atualmente meu foco é a linguagem de programação Python, Porém amo Tudo sobre Tecnologia!
+Atualmente meu foco é a linguagem de programação Python, Porém amo Tudo sobre Tecnologia!</br>
           Por isso, entendo um tico de algumas outras coisas.
           Pretendo dominar a arte do "básico".
           E futuramente conseguir demonstrar em palavras simples,
-          A própria simplicidade da programação.
+          A própria <i>"simplicidade complexa"</i> da programação.
 </p>
 
 </br>
@@ -26,7 +26,7 @@ Atualmente meu foco é a linguagem de programação Python, Porém amo Tudo sobr
 </br>
 
 <p align="center">
-Essas são as minhas medalhas concedidas pela IBM!
+Essas são as minhas <i>Badges</i> concedidas pela <b>IBM</b>!
 </p>
 
 <p align="center">
