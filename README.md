@@ -41,6 +41,7 @@ Essas são as minhas <i>Badges</i> concedidas pela <b>IBM</b>!
 
 </br>
 </br>
+<hr size="1" width="100%" align="center" noshade>
 </br>
 </br>
 
