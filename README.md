@@ -16,9 +16,7 @@ Estudo atualmente sobre a linguagem de programação Python, Porém amo Tudo sob
 ![Rozendox Status](https://github-readme-stats.vercel.app/api?username=rozendox&show_icons=true)
 
 
-![Top Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=rozendox&layout=compact)](https://github.com/rozendox/github-readme-stats)
-
-<br>
+![Top Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=rozendox&layout=compact)
 <br>
 
 <p align="center">
