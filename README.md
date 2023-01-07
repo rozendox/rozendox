@@ -10,7 +10,7 @@
 </br>
 
 
-<h2> Gabriel por aqui! </h2>
+<h2> <p align="center">Gabriel por aqui!</p> </h2>
 </br>
 
 <p align="center">
