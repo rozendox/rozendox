@@ -60,9 +60,10 @@ Essas são as minhas <i>Badges</i> concedidas pela <b>IBM</b>!
 </br>
 </br>
 </br>
-<a href=""> <img align="center" src="https://github-readme-stats.vercel.app/api?username=rozendox&show_icons=true"
-<a href=""> <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rozendox&layout=compact"/> </a>
-
+<a href=""> <img align="center" src="https://github-readme-stats.vercel.app/api?username=rozendox&show_icons=true"</a>
+<a href=""> <img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Rozendox&theme=react&line_height=40&hide=css"/> 
+</a>
+          
 </br>
 
 </br>
