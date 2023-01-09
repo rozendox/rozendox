@@ -60,8 +60,10 @@ Essas são as minhas <i>Badges</i> concedidas pela <b>IBM</b>!
 </br>
 </br>
 </br>
-![Rozendox Status](https://github-readme-stats.vercel.app/api?username=rozendox&show_icons=true) [![Top Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=rozendox&layout=compact)
+
+![Rozendox Status](https://github-readme-stats.vercel.app/api?username=rozendox&show_icons=true) ![Top Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=rozendox&layout=compact)
 </br>
+
 </br>
 </br>
 <h6> <p align="center"> <i>  Contatos:</i> </p> </h6>
