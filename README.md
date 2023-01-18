@@ -61,11 +61,7 @@ Essas são as minhas <i>Badges</i> concedidas pela <b>IBM</b>!
 </br>
 </br>
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=rozendox&show_icons=true&theme=radical)
-
-</br>
-
-<a href=""> <img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Rozendox&theme=react&line_height=40&hide=css"/> 
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=rozendox&show_icons=true&theme=radical) <a href=""> <img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Rozendox&theme=react&line_height=40&hide=css"/> 
 </a>
           
 </br>
@@ -86,4 +82,4 @@ Essas são as minhas <i>Badges</i> concedidas pela <b>IBM</b>!
 </br>
 
 
-
+![Snake animation](https://github.com/rozendox/rozendox/blob/output/github-contribution-grid-snake.svg)
