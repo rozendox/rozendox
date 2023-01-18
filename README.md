@@ -61,7 +61,7 @@ Essas são as minhas <i>Badges</i> concedidas pela <b>IBM</b>!
 </br>
 </br>
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=rozendox)](https://github.com/anuraghazra/github-readme-stats)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=rozendox&show_icons=true&theme=radical)
 
 </br>
 
