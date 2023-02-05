@@ -68,6 +68,8 @@ Essas são as minhas <i>Badges</i> concedidas pela <b>IBM</b>!
           
 </br>
 
+[![GitHub Streak](https://streak-stats.demolab.com/?user=rozendox)](https://git.io/streak-stats)
+
 </br>
 </br>
 <h6> <p align="center"> <i>  Contatos:</i> </p> </h6>
