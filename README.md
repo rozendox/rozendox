@@ -27,9 +27,7 @@ Atualmente meu foco é a linguagem de programação Python, Porém amo Tudo sobr
 </br>
 </br>
 
-
-https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=gruvbox
-
+[![trophy](https://github-profile-trophy.vercel.app/?username=rozendox](https://github.com/rozendox/github-profile-trophy)
 
 
 <p align="center">
