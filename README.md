@@ -27,7 +27,7 @@ Atualmente meu foco é a linguagem de programação Python, Porém amo Tudo sobr
 </br>
 </br>
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=rozendox&row=2&column=4&theme=onedark&column=3&margin-w=15&margin-h=15&title=Repositories,Commits,Stars,Followers,)](https://github.com/ryo-ma/github-profile-trophy)
+
 
 
 <p align="center">
@@ -65,10 +65,12 @@ Essas são as minhas <i>Badges</i> concedidas pela <b>IBM</b>!
 </br>
 </br>
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=rozendox&show_icons=true&theme=radical) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rozendox&layout=compact)](https://github.com/rozendox/github-readme-stats)
-          
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=rozendox&show_icons=true&theme=radical)
 </br>
-
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rozendox&layout=compact)](https://github.com/rozendox/github-readme-stats) 
+</br>
+[![trophy](https://github-profile-trophy.vercel.app/?username=rozendox&row=2&column=4&theme=onedark&column=3&margin-w=15&margin-h=15&title=Repositories,Commits,Stars,Followers,)](https://github.com/ryo-ma/github-profile-trophy)
+</br>
 [![GitHub Streak](https://streak-stats.demolab.com/?user=rozendox)](https://git.io/streak-stats)
 
 </br>
