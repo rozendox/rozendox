@@ -27,7 +27,7 @@ Atualmente meu foco é a linguagem de programação Python, Porém amo Tudo sobr
 </br>
 </br>
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=rozendox&row=2&column=3&theme=onedark&column=3&margin-w=15&margin-h=15&title=Stars,Followers,Stars,Followers)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=rozendox&row=2&column=3&theme=onedark&column=3&margin-w=15&margin-h=15&title=Repositories,Commits,Stars,Followers,)](https://github.com/ryo-ma/github-profile-trophy)
 
 
 <p align="center">
