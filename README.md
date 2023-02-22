@@ -26,9 +26,9 @@ Atualmente meu foco é a linguagem de programação Python, Porém amo Tudo sobr
 <hr size="1" width="100%" align="center" noshade>
 </br>
 </br>
-<p align="center">
+
 [![trophy](https://github-profile-trophy.vercel.app/?username=rozendox&row=2&column=3)](https://github.com/ryo-ma/github-profile-trophy)
-</p>
+
 
 <p align="center">
 Essas são as minhas <i>Badges</i> concedidas pela <b>IBM</b>!
