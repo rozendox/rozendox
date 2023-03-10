@@ -1,5 +1,8 @@
 name: generate animation
 
+registry "https://registry.npmjs.org/"
+
+
 on:
   # run automatically every 12 hours
   schedule:
