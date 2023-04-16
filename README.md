@@ -90,3 +90,5 @@ Essas são as minhas <i>Badges</i> concedidas pela <b>IBM</b>!
 
 
 ![Snake animation](https://github.com/rozendox/rozendox/blob/output/github-contribution-grid-snake.svg)
+
+
