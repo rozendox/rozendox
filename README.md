@@ -71,7 +71,7 @@ Essas são as minhas <i>Badges</i> concedidas pela <b>IBM</b>!
 </br>
 [![trophy](https://github-profile-trophy.vercel.app/?username=rozendox&row=2&column=4&theme=onedark&column=3&margin-w=15&margin-h=15&title=Repositories,Commits,Stars,Followers,)](https://github.com/ryo-ma/github-profile-trophy)
 </br>
-[![GitHub Streak](https://streak-stats.demolab.com/?user=rozendox)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=Rozendox&theme=radical&hide_border=true&locale=pt_BR&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
 
 </br>
 </br>
