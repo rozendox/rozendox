@@ -88,10 +88,7 @@ Essas são as minhas <i>Badges</i> concedidas pela <b>IBM</b>!
 </div>
 </br>
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="github-snake-dark.svg" />
-    <img alt="github-snake" src="https://github.com/rozendox/rozendox/blob/output/github-contribution-grid-snake.gif" />
-</picture>
+![snake gif](https://github.com/rozendox/rozendox/blob/output/github-contribution-grid-snake.gif)
 
 
 
