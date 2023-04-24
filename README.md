@@ -93,6 +93,6 @@ Essas são as minhas <i>Badges</i> concedidas pela <b>IBM</b>!
     <img alt="github-snake" src="https://github.com/rozendox/rozendox/blob/output/github-contribution-grid-snake.gif" />
 </picture>
 
-![snake gif](https://github.com/rozendox/rozendox/blob/output/github-contribution-grid-snake.gif)
+
 
 
