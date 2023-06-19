@@ -5,9 +5,9 @@
 </br>
 </br>
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=rozendox&show_icons=true&theme=radical)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=rozendox&show_icons=true&theme=radical) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rozendox&layout=compact)](https://github.com/rozendox/github-readme-stats) 
 </br>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rozendox&layout=compact)](https://github.com/rozendox/github-readme-stats) 
+
 </br>
 [![trophy](https://github-profile-trophy.vercel.app/?username=rozendox&row=2&column=4&theme=onedark&column=3&margin-w=15&margin-h=15&title=Repositories,Commits,Stars,Followers,)](https://github.com/ryo-ma/github-profile-trophy)
 </br>
