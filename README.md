@@ -7,8 +7,11 @@
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=rozendox&show_icons=true&theme=radical) [![GitHub Streak](https://streak-stats.demolab.com?user=Rozendox&theme=radical&hide_border=true&locale=pt_BR&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
 <div align="center">
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rozendox&layout=compact)](https://github.com/rozendox/github-readme-stats) </br> 
+  
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rozendox&layout=compact)](https://github.com/rozendox/github-readme-stats) 
+</br> 
 [![trophy](https://github-profile-trophy.vercel.app/?username=rozendox&row=2&column=4&theme=onedark&column=3&margin-w=15&margin-h=15&title=Repositories,Commits,Stars,Followers,)](https://github.com/ryo-ma/github-profile-trophy)
+
 </div>
 
 <h6> <p align="center"> <i>  Contatos:</i> </p> </h6>
