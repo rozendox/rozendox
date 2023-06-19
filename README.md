@@ -1,26 +1,4 @@
-
-<h1><p align="center"> <font face="Comic Sans "> BELEZINHA DEVS!? </font> </p></h1> 
-</br>        
-<p align="center">
-<a href='https://postimg.cc/y394qDHb' target='_blank'><img src='https://i.postimg.cc/x8p0zmFn/Imagem-do-Whats-App-de-2023-01-07-s-01-43-18.jpg' width="250" height="350" border='0' alt='Imagem-do-Whats-App-de-2023-01-07-s-01-43-18' /> </a> </p>
-
-</br>
-</br>
-</br>
-</br>
-
-
-<h2> <p align="center">Gabriel por aqui!</p> </h2>
-</br>
-
-<p align="center">
-Atualmente meu foco é a linguagem de programação Python, Porém amo Tudo sobre Tecnologia!</br>
-          Por isso, entendo um tico de algumas outras coisas.
-          Pretendo dominar a arte do "básico".
-          E futuramente conseguir demonstrar em palavras simples,
-          A própria <i>"simplicidade complexa"</i> da programação.
-</p>
-
+[![Design-sem-nome-2.gif](https://i.postimg.cc/vHV1fccj/Design-sem-nome-2.gif)](https://postimg.cc/zVqX1DwS)
 </br>
 </br>
 <hr size="1" width="100%" align="center" noshade>
