@@ -4,8 +4,10 @@
 <hr size="1" width="100%" align="center" noshade>
 </br>
 </br>
-
+<div align="center">
+  
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=rozendox&show_icons=true&theme=radical) [![GitHub Streak](https://streak-stats.demolab.com?user=Rozendox&theme=radical&hide_border=true&locale=pt_BR&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
+</div>
 <div align="center">
   
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rozendox&layout=compact)](https://github.com/rozendox/github-readme-stats) 
