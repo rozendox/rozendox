@@ -1,4 +1,7 @@
+</br>
+
 [![Design-sem-nome-2.gif](https://i.postimg.cc/vHV1fccj/Design-sem-nome-2.gif)](https://postimg.cc/zVqX1DwS)
+
 </br>
 </br>
 <hr size="1" width="100%" align="center" noshade>
