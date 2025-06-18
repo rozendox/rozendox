@@ -11,7 +11,6 @@
   
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=rozendox&show_icons=true&theme=radical) 
 
-
 <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=rozendox&theme=burnt-neon&locale=pt_BR&date_format=j%20M%5B%20Y%5D&card_width=490&fire=7D31EB&background=45%2C306BFF%2CB921EB&border=E738EB&sideLabels=000000" alt="GitHub Streak" /></a>
 
 </div>
