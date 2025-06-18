@@ -11,11 +11,10 @@
   
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=rozendox&show_icons=true&theme=radical) 
 </div>
-<div align="center">
+
   
 <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=rozendox&theme=dark&locale=pt_BR&date_format=j%20M%5B%20Y%5D&card_width=490&fire=7D31EB&background=45%2CD6CCEB%2CAF65EB" alt="GitHub Streak" /></a>
 
-</div>
 
 <div align="center">
   
