@@ -38,6 +38,3 @@
 
 ![snake gif](https://github.com/rozendox/rozendox/blob/output/github-contribution-grid-snake.gif)
 
-
-
-
