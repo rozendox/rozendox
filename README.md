@@ -82,9 +82,7 @@ Dexion-Labs is the embodiment of my technical approach to infrastructure and cod
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rozendox&layout=compact&theme=tokyonight)
 
 </div>
-
 ---
-
 <h6> <p align="center"> <i>  Contatos:</i> </p> </h6>
 
 <div>
